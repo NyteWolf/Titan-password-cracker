@@ -1,5 +1,5 @@
 # Made with sweet hacks and sour exploits in Pakistan!
-<a hrefMade="../../" target="_blank"><img src="https://github.com/NyteWolf/kryptkor-zip-password-cracker/blob/master/Stamp.png" height="200"></a>
+<a hrefMade="../../" target="_blank"><img src="https://github.com/NyteWolf/VyneLogger/blob/master/Stamp.jpg" height="200"></a>
 
 # Titan-password-cracker
 The Titan Attack System or password cracker is a fast and hyper active cracker which can be used for progressive SMTP based password recovery.
