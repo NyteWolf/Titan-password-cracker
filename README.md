@@ -1,4 +1,4 @@
-# Made with love and undying passion in Pakistan
+# Made with sweet hacks and sour exploits in Pakistan!
 <a hrefMade="../../" target="_blank"><img src="https://github.com/NyteWolf/kryptkor-zip-password-cracker/blob/master/Stamp.png" height="200"></a>
 
 # Titan-password-cracker
