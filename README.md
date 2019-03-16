@@ -1,5 +1,5 @@
 # Made with sweet hacks and sour exploits in Pakistan!
-<a hrefMade="../../" target="_blank"><img src="https://github.com/NyteWolf/VyneLogger/blob/master/Stamp.jpg" height="200"></a>
+<a hrefMade="../../" target="_blank"><img src="https://github.com/NyteWolf/pics/blob/master/Stamp.jpg" height="200"></a>
 
 # Copyright
 Copyright! VIDEO FOOTAGE AND DEMO IS PROPERTY OF NyteWolf
