@@ -1,4 +1,3 @@
-<a hrefMade="../../" target="_blank"><img src="https://github.com/NyteWolf/Titan-password-cracker/blob/master/logo.png" height="200"></a>
 # Made with sweet hacks and sour exploits in Pakistan!
 <a hrefMade="../../" target="_blank"><img src="https://github.com/NyteWolf/VyneLogger/blob/master/Stamp.jpg" height="200"></a>
 
@@ -21,5 +20,3 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # Design
 The tool itself is cross platform and can be operated for / from Linux, MacOS and Windows however debeian based operating systems are prefered for a more better experience.
 
-# Contact 
-You may ask questions about the software and if you are interested in purchasing a license to it.
