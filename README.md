@@ -1,8 +1,8 @@
 # Made with sweet hacks and sour exploits in Pakistan!
 <a hrefMade="../../" target="_blank"><img src="https://github.com/NyteWolf/VyneLogger/blob/master/Stamp.jpg" height="200"></a>
 
-# Copyright (c) 2019 SudoX 
-سڈوکو 2019 (c) کاپی رائٹ
+# Copyright
+Copyright! VIDEO FOOTAGE AND DEMO IS PROPERTY OF NyteWolf
 
 # Titan-password-cracker
 <a hrefMade="../../" target="_blank"><img src="https://github.com/NyteWolf/Titan-password-cracker/blob/master/software.png" height="380"></a>
